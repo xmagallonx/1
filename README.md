@@ -1,4 +1,4 @@
 # Titulo
 Descripcion
 
-! []_(imagen / planos.jpg)
+! [Preview]_(https://github.com/xmagallonx/Ejemplo/blob/main/imagen/planos.jpg)
