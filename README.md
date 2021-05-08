@@ -31,7 +31,7 @@ Los servicios de proceso a menudo son una de las razones principales de por qué
 |Azure Container Instances|Aplicaciones en contenedores que se ejecutan en Azure sin necesidad de aprovisionar servidores ni máquinas virtuales.|
 |Azure Functions|Un servicio de procesos sin servidor y controlado por eventos.|
 
-###### Servicios de almacenamiento
+##### Servicios de almacenamiento
 Azure proporciona cuatro tipos principales de servicios de almacenamiento.
 
 |Nombre del servicio|Función del servicio|
@@ -63,6 +63,17 @@ Estos son algunos de los tipos de servicios de inteligencia artificial y aprendi
 |Procesamiento de lenguaje natural|permita que las aplicaciones procesen lenguaje natural con scripts precompilados, evalúen opiniones y aprendan a reconocer lo que quieren los usuarios.|
 
 
+###### Glosario y Datos importantes
+
+
+|Modelo informático|Descripción|
+|-------------|-------------|
+|IaaS|Este modelo de servicio en la nube es el más parecido a la administración de servidores físicos. Un proveedor de servicios en la nube mantiene actualizado el hardware, pero el mantenimiento del sistema operativo y la configuración de red es responsabilidad del inquilino de nube. Por ejemplo, las máquinas virtuales de Azure son dispositivos de proceso virtuales totalmente operativos que se ejecutan en centros de datos de Microsoft. Una ventaja de este modelo de servicio en la nube es la rápida implementación de nuevos dispositivos de proceso. La configuración de una máquina virtual nueva es considerablemente más rápida que la obtención, instalación y configuración de un servidor físico.|
+|PaaS|Este modelo de servicio en la nube es un entorno de hospedaje administrado. El proveedor de servicios en la nube administra las máquinas virtuales y los recursos de red, y el inquilino de nube implementa sus aplicaciones en el entorno de hospedaje administrado. Por ejemplo, Azure App Services proporciona un entorno de hospedaje administrado en el que los desarrolladores pueden cargar sus aplicaciones web sin tener que preocuparse por el uso de los requisitos de hardware y software físicos.|
+|SaaS|En este modelo de servicio en la nube, el proveedor de servicios en la nube administra todos los aspectos del entorno de la aplicación, como las máquinas virtuales, los recursos de red, el almacenamiento de datos y las aplicaciones. El inquilino de nube solo necesita proporcionar sus datos a la aplicación administrada por el proveedor de servicios en la nube. Por ejemplo, Office 365 proporciona una versión de Office totalmente operativa que se ejecuta en la nube. Lo único que debe hacer es crear el contenido y Office 365 se encarga de todo lo demás.|
+
+
+Informacion conseguida de [https://docs.microsoft.com/en-gb/users/cloudskillschallenge/collections/ddkzhpd6gqn7?WT.mc_id=cloudskillschallenge_1b157d7d-b99e-4cf8-8523-9c8b51f93c1b](https://docs.microsoft.com/en-gb/users/cloudskillschallenge/collections/ddkzhpd6gqn7?WT.mc_id=cloudskillschallenge_1b157d7d-b99e-4cf8-8523-9c8b51f93c1b)
 
 
 
