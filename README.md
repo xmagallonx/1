@@ -12,7 +12,7 @@ Azure es un conjunto de servicios en la nube en expansión constante que ayudan 
 |Nube privada|Los recursos informáticos son de uso exclusivo de los usuarios de una empresa u organización. Una nube privada puede estar ubicada físicamente en el centro de datos local de la organización. También la puede hospedar un proveedor de servicios de terceros.|
 |Nube híbrida|Este entorno informático combina una nube pública y una nube privada, lo que permite compartir datos y aplicaciones entre ellas.|
 
-<img src=""/>
+<img src="https://github.com/xmagallonx/Ejemplo/blob/main/imagen/cloud-computing-continuum.png?raw=true"/>
 
 
 ##### Que ofrece?
